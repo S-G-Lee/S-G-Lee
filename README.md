@@ -1,5 +1,5 @@
 <div align=center>
-👋Fresh Coder👋
+<h1>👋Fresh Coder👋</h1>
 
 I'm currently learning...
 
