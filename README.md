@@ -3,7 +3,7 @@
 
 I'm currently learning...
 
-<a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a><a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Pythonanywhere-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a><a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Pythonanywhere-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/Algorithm-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a><a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a><a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 
 I'm interested in...
 
@@ -20,7 +20,7 @@ Contact me:
 My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-G-Lee)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </div>
 
 
